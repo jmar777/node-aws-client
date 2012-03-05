@@ -1,11 +1,11 @@
 {
     "author": "Josh Skidmore <josh@josh.sc>",
     "name": "node-aws-client",
-    "description": "Lightweight aws client",
+    "description": "Lightweight Amazon AWS client",
     "version": "0.0.1",
     "repository": {
         "type" : "git",
-        "url" : "git@bitbucket.org:joshskidmore/node-aws-client.git"
+        "url" : "git@github.com:joshskidmore/node-aws-client.git"
     },
     "main": "lib/index.js",
     "dependencies": {
