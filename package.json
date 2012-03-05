@@ -1,0 +1,20 @@
+{
+    "author": "Josh Skidmore <josh@josh.sc>",
+    "name": "node-aws-client",
+    "description": "Lightweight aws client",
+    "version": "0.0.1",
+    "repository": {
+        "type" : "git",
+        "url" : "git@bitbucket.org:joshskidmore/node-aws-client.git"
+    },
+    "main": "lib/index.js",
+    "dependencies": {
+        "restler": ">=2.0.0",
+        "xml-mapping": ">=1.0.1"
+    },
+    "devDependencies": {
+    },
+    "engines": {
+        "node": ">=0.6.0"
+    }
+}
